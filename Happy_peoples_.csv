@@ -1,0 +1,101 @@
+Person_ID,Age,Job,Work_Hours,Sleep_Hours,Wake_Up_Time,Exercise_Hours,Family_Time_Hours,Social_Time_Hours,Meditation_Hours,Stress_Level,Life_Satisfaction,Happiness_Level,Actually_Happy,Main_Reason_For_Happiness
+1,56,Nurse,6.3,7.418902184689383,06:45,1.2,1.3,1.3,0.37,4.2,6.9,8.2,Yes,Spiritual satisfaction
+2,20,Business Owner,6.8,5.949006422577697,06:30,0.0,2.9,1.8,0.18,6.2,5.1,6.7,Yes,Financial stability
+3,59,Nurse,8.3,7.98176103894861,05:15,0.0,4.1,2.1,0.52,3.6,7.9,9.4,Yes,Sense of purpose
+4,28,Doctor,7.6,8.130999522495951,07:00,1.0,2.0,1.7,0.35,4.5,8.9,7.4,Yes,Inner peace
+5,44,Doctor,6.4,7.024196254971814,07:15,1.1,1.0,0.5,0.07,6.0,3.7,4.7,No,Relationship problems
+6,49,Nurse,9.4,6.880328112162488,06:00,0.0,2.0,1.3,0.58,7.0,5.6,6.9,Yes,Inner peace
+7,28,Lawyer,7.5,6.23840194575167,06:30,0.9,3.1,1.0,0.46,3.6,7.6,8.3,Yes,Financial stability
+8,49,Government Employee,6.8,6.156943191532737,07:00,0.3,1.0,2.1,0.22,8.0,3.5,4.2,No,Work stress
+9,36,Farmer,7.9,5.931321962380467,07:30,1.1,2.5,0.7,0.37,7.1,6.3,6.6,Yes,Spiritual satisfaction
+10,37,Sales Executive,6.2,5.549336568933867,06:45,0.9,0.0,1.6,0.6,3.7,5.8,8.3,Yes,Spiritual satisfaction
+11,19,Software Engineer,8.4,7.88182287177731,05:45,0.0,1.9,1.3,0.74,7.1,4.9,6.1,Yes,Spiritual satisfaction
+12,33,Data Analyst,5.1,7.834501064880046,05:00,0.0,1.8,2.3,0.44,2.1,9.9,8.7,Yes,Inner peace
+13,55,Accountant,9.3,6.86040549180619,07:15,1.0,3.2,2.1,0.19,7.2,7.3,6.1,Yes,Sense of purpose
+14,54,Government Employee,7.6,7.706129363099085,05:30,0.3,0.3,0.8,0.41,7.1,4.7,6.9,Yes,Supportive relationships
+15,49,Bank Employee,9.6,7.151360859479635,07:30,1.2,2.2,2.6,0.0,6.7,5.3,5.5,No,Academic pressure
+16,40,Bank Employee,7.8,6.327174785462428,06:30,0.1,3.0,1.3,0.0,7.6,4.3,6.5,Yes,Career satisfaction
+17,56,Nurse,7.4,7.538022597421675,07:45,0.3,0.0,1.3,0.06,4.2,8.2,7.3,Yes,Inner peace
+18,42,Government Employee,7.5,7.283855514409558,06:00,0.9,3.5,0.1,0.7,5.9,6.1,7.2,Yes,Personal growth
+19,43,Business Owner,6.1,6.994881495253586,05:15,0.0,1.8,1.8,0.76,5.9,6.7,7.3,Yes,Spiritual satisfaction
+20,50,Software Engineer,9.5,7.581217728428126,06:45,0.9,1.7,0.8,0.13,8.3,4.8,4.8,No,Relationship problems
+21,28,Data Analyst,7.9,6.594119946765706,06:00,0.9,2.5,1.7,0.1,4.0,9.2,10.0,Yes,Sense of purpose
+22,47,Software Engineer,7.3,6.774026859018511,09:00,1.0,1.5,1.5,0.93,5.7,5.5,7.9,Yes,Sense of purpose
+23,38,Nurse,10.7,7.504582895117524,06:15,0.7,2.0,0.8,0.35,9.8,2.9,3.8,No,Academic pressure
+24,56,Designer,10.0,6.30828002134442,05:15,0.5,1.8,0.7,0.17,7.8,4.4,6.2,Yes,Sense of purpose
+25,42,Government Employee,4.2,8.242725883293833,05:45,1.0,2.0,1.2,0.18,8.5,4.2,4.5,No,Relationship problems
+26,20,Marketing Executive,10.8,9.289802933217672,05:45,0.9,0.8,0.1,0.0,6.4,4.3,6.0,Yes,Sense of purpose
+27,50,Business Owner,8.9,8.07052382001321,07:15,1.4,0.6,1.4,0.57,5.9,6.8,6.7,Yes,Inner peace
+28,51,College Student,9.8,5.5055723412056325,06:45,0.8,1.3,2.5,0.91,6.5,6.4,9.2,Yes,Spiritual satisfaction
+29,18,Doctor,6.7,6.428976088849304,06:15,0.9,1.0,1.0,0.61,6.9,5.8,8.8,Yes,Sense of purpose
+30,34,Bank Employee,10.6,8.589045173884479,07:30,0.8,2.6,1.2,0.25,6.4,6.7,9.2,Yes,Sense of purpose
+31,47,Marketing Executive,10.9,7.327602320930492,06:00,1.4,0.1,1.2,0.42,8.4,3.4,5.9,No,Work stress
+32,40,Marketing Executive,7.9,5.335873100699917,07:45,0.1,2.3,1.8,0.1,7.2,5.0,5.5,No,Relationship problems
+33,39,Business Owner,10.5,9.48163679450795,07:00,0.6,3.8,1.2,0.36,9.2,3.0,4.1,No,Uncertainty about future
+34,31,Lawyer,8.9,7.292090380632649,07:15,1.1,0.8,1.2,0.43,5.4,4.2,7.0,Yes,Sense of purpose
+35,54,Sales Executive,7.0,6.018451996385605,07:30,1.1,1.5,2.9,0.77,7.4,7.8,5.1,No,Lack of sleep
+36,43,Teacher,6.3,7.088772556620362,05:15,0.0,2.4,0.7,0.0,6.1,2.3,6.3,Yes,Good health
+37,41,Bank Employee,8.3,8.007871947242428,06:15,0.9,2.3,1.4,0.24,5.3,6.8,6.5,Yes,Inner peace
+38,37,Software Engineer,5.3,8.946980331447602,06:15,1.0,0.1,1.1,0.16,4.2,5.4,8.0,Yes,Career satisfaction
+39,26,Software Engineer,7.9,6.076181480510945,07:30,0.9,2.0,1.3,0.15,8.9,4.3,5.2,No,Uncertainty about future
+40,47,Doctor,7.4,7.494452142378297,06:30,1.1,2.0,1.9,0.54,5.0,6.9,8.4,Yes,Sense of purpose
+41,32,Software Engineer,8.5,6.880899471191135,07:45,0.0,2.0,0.0,0.25,5.8,6.0,6.4,Yes,Balanced life
+42,44,Nurse,9.6,8.070077777913726,07:00,0.7,1.3,1.6,0.58,6.3,4.9,5.8,No,Lack of sleep
+43,19,Designer,10.1,8.108602949848835,05:00,0.8,0.6,0.7,0.08,6.7,4.6,6.8,Yes,Good health
+44,21,Business Owner,10.3,7.316861036982938,06:15,0.4,3.1,0.7,0.01,9.1,3.1,4.4,No,Relationship problems
+45,26,Business Owner,9.6,6.517199398587002,07:30,0.0,1.7,1.8,0.51,7.4,3.8,7.3,Yes,Financial stability
+46,43,Sales Executive,7.0,7.178408922506077,05:00,0.3,1.6,1.2,0.41,5.4,6.5,7.1,Yes,Spiritual satisfaction
+47,46,Farmer,8.5,8.266500829925105,07:15,0.2,0.0,2.1,0.18,6.7,4.5,5.8,No,Financial pressure
+48,36,Farmer,8.8,8.514963691496662,06:30,0.9,1.0,1.1,0.32,5.9,4.1,6.2,Yes,Inner peace
+49,45,Bank Employee,9.3,7.723399438916351,06:15,0.7,1.4,2.1,0.12,4.2,8.4,6.4,Yes,Sense of purpose
+50,29,Nurse,6.8,5.819570647503717,07:15,1.2,1.4,0.9,0.36,6.5,5.6,5.1,No,Work stress
+51,31,College Student,11.2,7.772257284413772,06:30,0.5,0.8,1.0,0.93,5.7,8.4,8.2,Yes,Spiritual satisfaction
+52,42,Accountant,10.0,6.630852279805065,06:15,0.5,1.2,1.9,0.09,10.0,4.9,5.1,No,Relationship problems
+53,45,Farmer,7.1,7.1260910502108334,06:30,0.3,1.9,1.0,0.27,8.0,3.9,4.9,No,Uncertainty about future
+54,39,Business Owner,8.2,5.345213159424766,06:30,1.0,0.3,1.2,0.54,5.6,5.9,8.5,Yes,Inner peace
+55,42,Marketing Executive,9.5,6.505535451861777,06:45,1.7,2.9,1.3,0.73,7.0,7.1,7.5,Yes,Inner peace
+56,58,Data Analyst,5.5,6.789654384044014,06:45,1.1,1.9,1.6,0.53,4.6,7.8,8.7,Yes,Inner peace
+57,56,Software Engineer,6.1,8.514040461002768,05:30,2.1,0.8,2.2,0.34,5.9,6.7,8.8,Yes,Personal growth
+58,19,Marketing Executive,5.8,7.356161458433824,06:30,0.7,2.9,0.8,0.69,5.7,4.5,5.4,No,Relationship problems
+59,18,Farmer,8.0,6.965327245917402,07:15,0.5,0.0,0.2,0.47,5.8,6.5,5.7,No,Lack of sleep
+60,21,Designer,8.6,8.238170740137805,06:15,0.8,4.3,0.7,0.21,6.5,4.8,6.0,Yes,Balanced life
+61,26,Doctor,8.9,9.5,06:15,0.0,1.0,1.6,0.28,7.3,7.2,6.9,Yes,Spiritual satisfaction
+62,45,Data Analyst,8.2,7.385865390724905,06:45,0.8,2.0,0.4,0.0,8.2,4.1,4.5,No,Relationship problems
+63,45,Business Owner,8.1,8.130473420435829,06:45,1.1,2.5,2.7,0.31,7.7,5.3,6.4,Yes,Sense of purpose
+64,59,Nurse,9.1,8.482158991037526,07:30,1.2,1.7,1.4,0.35,8.4,2.6,3.9,No,Relationship problems
+65,44,Software Engineer,6.5,7.254407276961691,06:30,0.8,2.0,2.5,0.42,4.3,8.3,8.6,Yes,Financial stability
+66,34,Lawyer,7.4,6.404578370110023,06:45,0.4,2.2,2.5,0.04,5.4,5.2,7.1,Yes,Good health
+67,49,Teacher,6.9,7.831145529257608,06:00,0.8,0.6,2.5,0.27,6.1,5.2,4.6,No,Lack of sleep
+68,33,Designer,10.2,7.442725346377704,06:30,1.5,0.0,1.6,0.5,3.8,6.1,9.2,Yes,Spiritual satisfaction
+69,39,Accountant,9.3,5.382206376238368,06:00,0.7,1.3,0.0,0.3,7.2,6.2,6.5,Yes,Spiritual satisfaction
+70,29,College Student,7.1,6.776643787713791,06:15,1.5,2.7,1.0,0.05,6.8,5.0,6.0,Yes,Good health
+71,43,Accountant,8.9,6.121233352138746,06:00,0.8,3.6,1.5,0.74,6.8,6.6,9.3,Yes,Sense of purpose
+72,58,Sales Executive,8.3,6.730478383177769,06:15,1.6,2.9,3.1,0.51,6.9,5.1,7.1,Yes,Spiritual satisfaction
+73,35,Accountant,6.6,7.853325760377241,05:30,1.0,1.4,0.1,0.2,6.5,5.1,6.0,Yes,Good health
+74,41,Teacher,9.5,7.324451818559972,07:45,0.7,1.4,2.4,0.47,4.4,6.3,5.6,No,Relationship problems
+75,32,Software Engineer,8.6,6.414389718918192,06:00,0.6,0.9,1.1,0.83,6.2,5.5,4.7,No,Lack of sleep
+76,19,Doctor,9.6,5.805318524279094,07:45,0.0,3.3,0.6,0.03,5.3,9.4,7.6,Yes,Spiritual satisfaction
+77,37,Government Employee,10.3,7.950221742113492,06:00,0.5,0.2,2.2,0.62,7.9,4.7,7.7,Yes,Good health
+78,31,Teacher,11.5,6.778376863954036,06:15,1.1,1.7,1.3,0.03,9.9,2.8,5.0,No,Academic pressure
+79,40,Sales Executive,6.4,7.191805774580673,06:45,0.8,1.2,2.7,0.39,4.4,9.2,9.2,Yes,Sense of purpose
+80,25,College Student,8.5,8.205525932957983,07:30,1.1,3.6,0.4,0.5,5.2,6.7,7.4,Yes,Inner peace
+81,55,Farmer,7.8,7.867813919476396,07:00,0.5,1.9,0.4,0.0,9.6,2.2,3.1,No,Work stress
+82,49,Software Engineer,4.8,6.79696835900197,06:30,1.5,2.8,0.6,0.57,6.8,5.2,6.5,Yes,Personal growth
+83,42,Sales Executive,8.1,5.918606016701198,06:30,0.0,2.5,1.7,0.6,5.9,6.6,6.7,Yes,Spiritual satisfaction
+84,44,Data Analyst,7.6,7.279894151153478,07:45,0.8,1.3,1.5,0.28,4.9,7.5,8.5,Yes,Sense of purpose
+85,59,Data Analyst,10.1,7.024855833189983,06:15,0.7,2.0,3.0,0.7,6.1,5.2,7.4,Yes,Sense of purpose
+86,54,Nurse,8.4,7.902901618145686,06:45,1.2,2.4,0.7,0.24,5.8,5.7,7.8,Yes,Career satisfaction
+87,34,Accountant,8.1,6.952997998371511,07:15,1.8,2.5,0.1,0.0,10.0,4.2,2.3,No,Work stress
+88,28,Marketing Executive,5.0,8.142608835636487,06:45,1.0,3.4,0.9,0.0,5.6,4.4,5.7,No,Work stress
+89,19,Sales Executive,7.1,7.801373064839223,07:15,0.8,0.7,1.8,0.0,5.6,5.8,7.6,Yes,Personal growth
+90,53,Business Owner,5.3,7.638755992446368,05:00,0.5,0.6,2.2,0.0,6.4,2.9,5.4,No,Uncertainty about future
+91,38,Nurse,6.9,7.325342753689067,06:45,0.9,0.6,1.2,0.0,6.4,2.2,3.4,No,Work stress
+92,28,Doctor,6.9,5.996633393826127,05:45,0.9,3.2,0.0,0.66,3.6,8.4,8.6,Yes,Personal growth
+93,47,Farmer,8.9,7.699594113281494,06:00,0.6,2.5,1.3,0.11,4.8,7.0,8.0,Yes,Career satisfaction
+94,51,Government Employee,7.8,8.050796300336147,05:30,0.7,2.3,1.1,0.0,6.9,5.3,5.3,No,Relationship problems
+95,60,Farmer,5.5,8.356436342345189,07:15,0.0,1.1,1.1,0.51,2.7,7.7,8.7,Yes,Sense of purpose
+96,57,Software Engineer,8.3,6.367246370310004,05:00,0.9,4.1,0.4,0.21,5.1,6.6,6.7,Yes,Career satisfaction
+97,39,Business Owner,8.0,6.925686294965252,06:30,0.7,3.5,1.8,0.21,7.8,5.8,5.4,No,Work stress
+98,28,Bank Employee,7.3,5.357175668266424,06:00,0.1,1.8,2.1,0.0,4.7,7.6,6.6,Yes,Inner peace
+99,58,Software Engineer,8.7,7.2666528285635135,06:45,0.6,1.7,1.9,0.54,7.4,7.3,6.8,Yes,Spiritual satisfaction
+100,40,Business Owner,6.9,7.893056380657429,07:30,0.0,0.8,2.2,0.22,4.7,6.5,6.6,Yes,Personal growth
